@@ -1,3 +1,4 @@
+
 # Authenticating Users
 
 ## Learning Goals
